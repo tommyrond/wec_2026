@@ -2,8 +2,6 @@
 
 Repository for the Warsaw Econometric Challenge 2026.
 
-## Challenge
-
 ## Files
 
 *merge.ipynb*: contains the pipeline to create *very_final_dataset.csv*.
@@ -12,7 +10,7 @@ Repository for the Warsaw Econometric Challenge 2026.
 
 *very_final_dataset.csv*: augmented dataset used for the analysis.
 
-*pleyers_quarters_final*: original dataset.
+*players_quarters_final*: original dataset.
 
 *player_appearance_run*: dataset with sprinting data.
 
